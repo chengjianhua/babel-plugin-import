@@ -35,7 +35,7 @@
     "material-ui": "^0.15.4",
     "pre-commit": "~1.1.2",
     "react-toolbox": "^1.2.5",
-    "umi-tools": "^0.1.4"
+    "umi-tools": "^0.4.0"
   },
   "babel": {
     "presets": [
